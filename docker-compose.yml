@@ -1,0 +1,5 @@
+version: '3'
+services:
+   LLDAP
+   container_name: ldap
+   image: sbaldap
